@@ -7,7 +7,7 @@ I enjoy playing video games, painting and reading fiction novels.
 
 #### Skills
 - C++: Intermediate
-- MySQL: Beginner
+- MySQL: Intermediate
 - Python: Beginner
 - Java: Beginner
 
